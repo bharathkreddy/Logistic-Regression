@@ -18,7 +18,7 @@
   2.Balance - amount of payment outstanding
   3. Income - income for the person.
   
-We use there three predictors to preding the chance of a person defaulting
+We use there three predictors to predict the chance of a person defaulting
 
  
  # Week 7 LOGISTIC REGRESSION - PRACTICE
